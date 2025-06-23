@@ -80,20 +80,14 @@ O dataset foi construído a partir de diferentes fontes públicas e privadas.
 ### Classificação
 
 * CNNs (ResNet, VGG, EfficientNet)
-* Vision Transformers (ViT)
-* Modelos multimodais com Early e Late Fusion
 
 ### Segmentação
 
-* U-Net, U-Net++
-* 3D U-Net
-* SegNet
-* Mask R-CNN para imagens médicas
+...
 
 ### Tradução entre Modalidades / Geração de Imagens
 
-* CycleGAN
-* pix2pix GAN
+...
 
 ---
 
